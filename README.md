@@ -1,11 +1,11 @@
-This is a public version of the main Kite repo
+这是 Kite 主要仓库的公开版本
 =================================
-The main Kite repo (originally `kiteco/kiteco`) was intended for private use. It has been lightly adapted for publication here by replacing private information with `XXXXXXX`. As a result many components here may not work out of the box.
+主要的 Kite 存储库（最初是 kiteco/kiteco）是供私人使用的。通过用 XXXXXXX 替换私人信息，它已被轻微改编以在此处发布。因此，此处的许多组件可能无法开箱即用。
 
-Intro to parts of the codebase
+部分代码库介绍
 =================================
 
-**Q: How did we analyze all the code on Github?**
+**Q：我们是如何分析Github上的所有代码的？**
 
 We used a variety of infrastructure, on a mix of cloud platforms depending on what was the most economical, though it was mostly on AWS.
 
